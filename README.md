@@ -3,7 +3,7 @@
 
 ## Como Instalar:
 
-1. Baixe tudo. ( Si você nunca usou o Github, você pode baixar apertando ali em <> code )
+1. Baixe tudo. ( Si você nunca usou o Github, você pode baixar apertando ali em <> code e depois Download ZIP )
 2. Copie e cole os arquivos na seguinte pasta do seu Windows:
    `C:\Users\SEU_USUARIO\Zomboid\Server`
 3. Abra o Project Zomboid, vá em **Hospedar** e selecione o perfil **ServerBetterZomboid** para iniciar o servidor.
