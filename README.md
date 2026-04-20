@@ -3,7 +3,6 @@
 1. Baixe tudo.
 2. Copie e cole os arquivos na seguinte pasta do seu Windows:
    `C:\Users\SEU_USUARIO\Zomboid\Server`
-   *(Substitua "SEU_USUARIO" pelo seu nome de usuário no Windows)*.
 3. Abra o Project Zomboid, vá em **Hospedar** e selecione o perfil **ServerBetterZomboid** para iniciar o servidor.
 
 ## Arquivos Incluídos:
